@@ -1,0 +1,36 @@
+input{
+  width: 100%;
+  padding: 12px;
+  margin: 10px 0;
+  border-style: ridge;
+  font-family: courier;
+
+}
+
+body{
+        background: linear-gradient(to bottom, #fffb1d, #000000);
+    
+
+}
+
+label{
+  font-family: courier;
+  font-size: 80%;
+
+}
+
+
+select{
+
+font-family: courier;
+font-size: 80%;
+
+}
+
+
+div.center {
+
+display: flex;
+justify-content: center;
+
+}
